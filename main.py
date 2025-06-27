@@ -12,7 +12,7 @@ import logging
 import threading
 
 # إعدادات البوت
-TOKEN = "7703562539:AAGRSb3oxILcgJEx1GtQ-NyDGjcrRfzONGM"
+TOKEN = "7703562539:AAGsAYWvC24jBtkwwP6tljVMiSFXMfcjjYY"
 ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
 bot = telebot.TeleBot(TOKEN)
 
